@@ -98,7 +98,7 @@ int ComparisonOperatorsProgram()
 int logicalOperatorsProgram()
 {
     printf("LOGICAL OPERATORS PROGRAM:");
-     int a=21;
+     int a=0;
     if(a>10 && 10<a)
 {
     printf("\n\tThe logical AND Operation is true.\n");
